@@ -11,8 +11,8 @@ const Home = props => {
                 <div className="gnb">
                     <div className="wrap">
                         <em className="line1"></em>
-                        <a href="./deposit">입금신청</a>
-                        <a href="./withdraw">출금신청</a>
+                        <a href="./deposit">deposit</a>
+                        <a href="./withdraw">withdraw</a>
                         <em className="line2"></em>
                     </div>
                 </div>
